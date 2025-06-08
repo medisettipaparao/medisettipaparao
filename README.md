@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security field
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cyber security projects
-- 📫 How to reach me www.linkedin.com/in/paparao-medisetti-3734ba281
+- 📫 How to reach me www.linkedin.com/in/paparaomedisetti
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
