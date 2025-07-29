@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cyber security projects
 - 📫 How to reach me www.linkedin.com/in/paparaomedisetti
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 medisettipaparao/medisettipaparao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
